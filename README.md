@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Rabbit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabbitism&show_icons=true&theme=transparent)
+
+![Rabbit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rabbitism&hide=javascript,html,r)
