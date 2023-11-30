@@ -8,7 +8,7 @@ I'm Dong Bin (董彬). You can call me Bunny. He/Him.
 
 I love UI development. I work on Avalonia, WPF, Blazor and React.
 
-#### I'm CEO of [IRIHI Technology](www.irihi.tech)
+#### I'm CEO of [IRIHI Technology](https://github.com/irihitech)
 
 Our team focus on the aesthetic revolution of productivity.
 
