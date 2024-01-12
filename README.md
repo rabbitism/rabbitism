@@ -22,11 +22,10 @@ I'm organizer of .NET China Community.
 
 I'm speaker and lecturer in multiple open-source events. 
 
-### Honors:
+### Honors
 
-![Avalonia MVP](./MVP_Large.png)
-
-
+<img src="./Microsoft_MVP.png" width="30%" height="30%"></img>
+<img src="./Avalonia_MVP.png" width="30%" height="30%"></img>
 
 <!--
 **rabbitism/rabbitism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
