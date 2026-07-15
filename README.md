@@ -25,7 +25,7 @@ I'm speaker and lecturer in multiple open-source events.
 ### Honors
 
 <img src="./Microsoft_MVP.png" width="30%" height="30%"></img>
-<img src="./Avalonia_MVP.png" width="30%" height="30%"></img>
+<img src="./Avalonia_MVP.png" width="10%" height="10%"></img>
 
 <!--
 **rabbitism/rabbitism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,5 +42,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=rabbitism&show_icons=true&theme=transparent&hide_border=true" alt="Rabbitism's github stats" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbitism&layout=compact&theme=buefy&hide_border=true&hide=javascript,html,r" /></a> |
-| ------------- | ------------- |
